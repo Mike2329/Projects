@@ -2,3 +2,4 @@
 
 1. **animal** - simple program, asks for and displays favorite animal  
 2. **math**  - various math related programs  
+3. **die** - regular and loaded die  
