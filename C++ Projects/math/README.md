@@ -1,5 +1,8 @@
 #MATH
-* gravity - (calulate distance an object falls due to gravity in a specific time period)
+* findMode - (calulate mode when given an array of ints)  
+* gravity - (calulate distance an object falls due to gravity in a specific time period)  
+* library - (book checkout system) 
+* shoppingCart  
 * average.cpp (ask for 5 numbers and display their average)  
 * change.cpp (show fewest number of coins for given cents 0-99) 
 * fallDistance.cpp (a function to calulate distance an object falls due to gravity in a specific time period)  
