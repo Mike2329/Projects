@@ -6,4 +6,5 @@
 4.  **fantasy combat** - dice rolling game with different characters
 5. **grocery** - grocery list builder/calculator
 6. **math**  - various math related programs  
+7. **stack and queue**
  
