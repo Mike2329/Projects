@@ -1,0 +1,5 @@
+targets:
+	g++ mainQueue.cpp -o fifo
+
+clean:
+	rm -rf *o fifo

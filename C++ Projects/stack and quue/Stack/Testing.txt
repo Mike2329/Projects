@@ -1,0 +1,5 @@
+Brief summery of testing:
+added integers to list includeing 0s
+displayed list
+displayed an empty list
+removed an integer and displayed list
