@@ -2,6 +2,6 @@
 
 1. **animal** - simple program, asks for and displays favorite animal 
 2. **Conway GoL Sim** - Simulation of several different patterens, interactive
-2. **dice** - regular and loaded dice roll functions
-2. **math**  - various math related programs  
+3. **dice** - regular and loaded dice roll functions
+4. **math**  - various math related programs  
  
